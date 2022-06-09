@@ -2,7 +2,7 @@
 categories = ["Silkscreen", "illustration"]
 date = 2022-06-08T23:00:00Z
 tags = ["Neon"]
-title = "IKAROA | Illustration & Colour Variations"
+title = "I K A R O A | Illustration & Colour Variations"
 [cover]
 alt = ""
 caption = ""
