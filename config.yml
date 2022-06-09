@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: "Welcome to MMINT.UK | Art Portfolio | Illustration | Murals | Prints"
-    Content: Silkscreen prints, illustraions, paintings & murals by artist Rob Green. Contact for commissions or keep in touch on social media for the latest updates! 🤪
+    Content: Silkscreen prints, illustraions, paintings & murals by artist Rob Green. Contact for commissions or keep in touch on social media for the latest updates!
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/mmint.uk"
