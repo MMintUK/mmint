@@ -1,7 +1,6 @@
 +++
 categories = []
 date = ""
-draft = true
 tags = []
 title = "IKAROA"
 [cover]
