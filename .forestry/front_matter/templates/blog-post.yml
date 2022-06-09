@@ -28,5 +28,4 @@ fields:
   name: categories
   label: categories
 pages:
-- content/posts/blog-post-three.md
 - content/posts/ikaroa.md
