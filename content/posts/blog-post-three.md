@@ -1,8 +1,8 @@
 +++
-categories = []
+categories = ["illustration"]
 date = 2022-06-08T23:00:00Z
 draft = true
-tags = []
+tags = ["silkscreen"]
 title = "Blog Post Three"
 [cover]
 alt = "alt"
