@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["illustration"]
 date = 2014-07-08T23:00:00Z
 tags = []
 title = "Kim Jong Un & Friends"
