@@ -13,12 +13,8 @@ categories:
 - illustration
 
 ---
-# This is a heading one
+# H1 Heading
 
-## This is a heading two
-
-This is a paragraph
+## H2 Heading
 
 Edit via forestry
-
-![](/uploads/combi-rob-green-vans-off-the-wall-1516_opti-denoised_sharpened_upscaled_x3.jpeg)
