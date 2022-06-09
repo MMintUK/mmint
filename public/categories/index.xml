@@ -5,6 +5,25 @@
     <link>https://ephemeral-raindrop-c5fa88.netlify.app/categories/</link>
     <description>Recent content in Categories on MMINT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ephemeral-raindrop-c5fa88.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jun 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://ephemeral-raindrop-c5fa88.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>illustration</title>
+      <link>https://ephemeral-raindrop-c5fa88.netlify.app/categories/illustration/</link>
+      <pubDate>Wed, 08 Jun 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://ephemeral-raindrop-c5fa88.netlify.app/categories/illustration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silkscreen</title>
+      <link>https://ephemeral-raindrop-c5fa88.netlify.app/categories/silkscreen/</link>
+      <pubDate>Wed, 08 Jun 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://ephemeral-raindrop-c5fa88.netlify.app/categories/silkscreen/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
