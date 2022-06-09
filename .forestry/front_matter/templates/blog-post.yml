@@ -28,5 +28,6 @@ fields:
   name: categories
   label: categories
 pages:
+- content/posts/general-pumpkin.md
 - content/posts/ikaroa.md
 - content/posts/kim-jong-un-friends.md
