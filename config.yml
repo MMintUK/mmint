@@ -4,8 +4,6 @@ title: MMINT
 theme: PaperMod
 
 params:
-  foo: bar
-  
   homeInfoParams:
     Title: "Welcome to MMINT.UK"
     Content: Portfolio of illustraions, paintings & prints by Artist Rob Green
