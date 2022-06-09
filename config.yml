@@ -1,12 +1,12 @@
 baseURL: "https://ephemeral-raindrop-c5fa88.netlify.app/"
 languageCode: en-us
-title: MMINT
+title: @MMINT.UK
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Welcome to MMINT.UK"
-    Content: Silkscreen prints, illustraions & paintings by artist Rob Green. Contact for commissions or follow on Insta, Facebook or Twitter for the latest updates.
+    Title: "Welcome to MMINT | ART | ILLUSTRATION | PRINTS"
+    Content: Silkscreen prints, illustraions, paintings & murals by artist Rob Green. Contact for commissions or keep in touch on social media for the latest updates.
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/mmint.uk"
