@@ -1,6 +1,6 @@
 +++
 categories = []
-date = ""
+date = 2022-06-08T23:00:00Z
 tags = []
 title = "IKAROA"
 [cover]
