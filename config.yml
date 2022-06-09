@@ -1,6 +1,6 @@
 baseURL: "https://ephemeral-raindrop-c5fa88.netlify.app/"
 languageCode: en-us
-title: @MMINT.UK
+title: MMINT.UK
 theme: PaperMod
 
 params:
