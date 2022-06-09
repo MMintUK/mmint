@@ -1,0 +1,37 @@
+baseURL: ""
+languageCode: en-us
+title: MMINT
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Welcome to MMINT.UK"
+    Content: Portfolio of illustraions, paintings & prints by Artist Rob Green
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/mmint.uk"
+    - name: Twitter
+      url: "https://www.instagram.com/mmint.uk"
+    - name: Facebook
+      url: "https://www.instagram.com/mmint.uk"     
+
+  cover:
+    linkFullImages: true
+
+  Showbreadcrumbs: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true  
+
+menu:
+  main:
+    - indentifer: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - indentifer: tags
+      name: tags
+      url: /tags/
+      weight: 20  
+      
