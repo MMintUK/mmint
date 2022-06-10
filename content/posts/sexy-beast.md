@@ -1,8 +1,8 @@
 +++
 categories = ["illustration"]
 date = 2020-12-30T00:00:00Z
-tags = ["silkscreen"]
-title = "Sexy Beast | Film 4"
+tags = ["illustration", "silkscreen"]
+title = "'Sexy Beast' | Film 4"
 [cover]
 alt = ""
 caption = ""
