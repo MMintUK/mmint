@@ -2,7 +2,7 @@
 categories = ["illustration"]
 date = 2014-07-08T23:00:00Z
 tags = ["illustration"]
-title = "Kim Jong Un & Friends"
+title = "'Kim Jong Un & Friends'"
 [cover]
 alt = "Kim Jong Un"
 caption = ""
