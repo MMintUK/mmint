@@ -6,7 +6,7 @@ title = "'House of Vans'"
 [cover]
 alt = ""
 caption = ""
-image = ""
+image = "/combi-rob-green-vans-off-the-wall-1080.jpg"
 
 +++
 Illustration for 'House Of  Vans' Event 2014. Thanks for the sweet shoes! 
