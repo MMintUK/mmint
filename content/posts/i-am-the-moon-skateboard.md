@@ -2,7 +2,7 @@
 categories = ["Painting"]
 date = 2018-04-10T23:00:00Z
 tags = ["Skateboard"]
-title = "'I'am the Moon' - Skateboard"
+title = "'I'am the Moon' | Skateboard"
 [cover]
 alt = ""
 caption = ""
