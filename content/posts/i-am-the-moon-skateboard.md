@@ -1,7 +1,7 @@
 +++
-categories = ["Painting"]
+categories = ["painting"]
 date = 2018-04-10T23:00:00Z
-tags = ["Skateboard"]
+tags = ["skateboard", "painting"]
 title = "'I'am the Moon' | Skateboard"
 [cover]
 alt = ""
