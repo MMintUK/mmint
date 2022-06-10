@@ -1,7 +1,6 @@
 +++
 categories = ["illustration"]
 date = 2020-12-30T00:00:00Z
-draft = true
 tags = ["silkscreen"]
 title = "Sexy Beast"
 [cover]
@@ -17,6 +16,10 @@ Don: Yes!
 Gal: No!  
 Don: Fat cunt!  
 Gal: No, No, No!  
-Don: Yes, Yes, Yes!  
-  
+Don: Yes, Yes, Yes!
+
 SexyBeast directed by JonathanGlazer, film4 Production Featuring Ray Winstone BenKingsley & IanMcShane. Film Poster illustration for a silkscreen print.
+
+![](/sexy_beast_rob_green_mmint-uk_detail_01.jpg)
+
+![](/sexy_beast_rob_green_mmint-uk_detail_02.jpg)
