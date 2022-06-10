@@ -1,5 +1,5 @@
 +++
-categories = ["illustration"]
+categories = ["print", "illustration"]
 date = 2019-10-07T23:00:00Z
 tags = ["Vishnu"]
 title = "Vishnu"
