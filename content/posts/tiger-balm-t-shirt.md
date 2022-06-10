@@ -1,7 +1,7 @@
 +++
 categories = ["Illustration", "Silkscreen"]
 date = 2021-03-12T00:00:00Z
-tags = ["Aprel"]
+tags = ["silkscreen", "Aprel"]
 title = "Tiger Balm - T-Shirt"
 [cover]
 alt = ""
