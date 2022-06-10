@@ -1,7 +1,7 @@
 +++
-categories = ["Painting"]
+categories = ["painting"]
 date = 2014-08-09T23:00:00Z
-tags = ["Mural", "Street Art"]
+tags = ["street art", "mural"]
 title = "'General Pumpkin'"
 [cover]
 alt = ""
