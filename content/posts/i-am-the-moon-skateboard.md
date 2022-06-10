@@ -1,7 +1,6 @@
 +++
 categories = ["Painting"]
 date = 2018-04-10T23:00:00Z
-draft = true
 tags = ["Skateboard"]
 title = "'I'am the Moon' - Skateboard"
 [cover]
