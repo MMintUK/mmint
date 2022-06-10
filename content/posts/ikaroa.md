@@ -1,5 +1,5 @@
 +++
-categories = ["Silkscreen", "illustration"]
+categories = ["silkscreen", "illustration"]
 date = 2022-06-08T23:00:00Z
 tags = ["illustration", "silkscreen"]
 title = "'I K A R O A' | Illustration & Colour Variations"
