@@ -1,8 +1,8 @@
 +++
-categories = ["illustration"]
+categories = ["silkscreen", "illustration"]
 date = 2014-09-22T23:00:00Z
 tags = ["silkscreen"]
-title = "'House of Vans' Event 2014"
+title = "'House of Vans' | Event 2014"
 [cover]
 alt = ""
 caption = ""
