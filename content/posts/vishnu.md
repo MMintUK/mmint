@@ -1,6 +1,6 @@
 +++
 categories = ["print", "illustration"]
-date = 2019-10-07T23:00:00Z
+date = 2020-03-24T00:00:00Z
 tags = ["Vishnu"]
 title = "'Vishnu' | Framed Print"
 [cover]
