@@ -2,7 +2,7 @@
 categories = ["print", "silkscreen"]
 date = 2020-06-03T23:00:00Z
 tags = ["ultraviolet", "print", "silkscreen"]
-title = "'I K A R O A' | Framed Print"
+title = "'I K A R O A' | B&W & ULTRAVIOLET"
 [cover]
 alt = ""
 caption = ""
