@@ -15,4 +15,4 @@ Skateboard for the 'Decked Out' Exhibition, Seoul, S.Korea
 
 ![](/iam_the_moon_detail_mmint_rob_green_1660.jpg)
 
-![](/iam_the_moon_rob_green__mmint_1080.png)
+![](/iam_the_moon_rob_green__mmint_1080.jpg)
