@@ -2,7 +2,7 @@
 categories = ["illustration"]
 date = 2020-12-30T00:00:00Z
 tags = ["illustration", "silkscreen"]
-title = "'Sexy Beast' | Film 4"
+title = "'Sexy Beast' | Film 4 | \"I know a bloke, who knows a bloke, who knows a bloke\""
 [cover]
 alt = ""
 caption = ""
