@@ -2,7 +2,7 @@
 categories = ["painting"]
 date = 2014-08-09T23:00:00Z
 tags = ["street art", "mural"]
-title = "'General Pumpkin'"
+title = "'General Pumpkin' | Seoul, S.Korea"
 [cover]
 alt = ""
 caption = ""
