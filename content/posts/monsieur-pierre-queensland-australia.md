@@ -2,7 +2,7 @@
 categories = []
 date = 2015-08-18T23:00:00Z
 tags = []
-title = "Monsieur Pierre | Queensland, Australia"
+title = "Pierre | Queensland, Australia"
 [cover]
 alt = ""
 caption = ""
