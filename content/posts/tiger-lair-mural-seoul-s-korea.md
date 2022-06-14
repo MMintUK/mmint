@@ -1,6 +1,6 @@
 +++
 categories = ["painting"]
-date = 2019-11-15T00:00:00Z
+date = 2020-06-09T23:00:00Z
 tags = ["mural"]
 title = "Tiger Lair Mural | Seoul, S,Korea"
 [cover]
