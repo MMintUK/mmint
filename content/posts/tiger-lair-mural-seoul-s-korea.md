@@ -9,6 +9,9 @@ caption = ""
 image = "/tiger_lair_rob_green_artist_section_02_1456_opti.jpg"
 
 +++
+  
+Travel to a realm of enlightenment in this sketch inspired by ancient Korean mythology.⠀A tiger undergoes a spiritual journey shifting through layers of enlightenment on his path to becoming human. Along the way he encounters shrines, temples and mediation gardens inhabited by Buddha & Yama (The Lord of Hell).
+
 ![](/tiger_lair_rob_green_artist_section_02_b_1456_opti.jpg)
 
 ![](/tiger_lair_rob_green_artist_section_02_1660.jpg)
