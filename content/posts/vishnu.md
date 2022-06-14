@@ -6,12 +6,10 @@ title = "'Vishnu' | Framed Print"
 [cover]
 alt = ""
 caption = ""
-image = "/vishnu_art-print_rob_green_mmint_1456_02.jpg"
+image = "/hannam_gallery_1660_rob_green.jpg"
 
 +++
 Vishnu is the Preserver and guardian of men (Narayana), he protects the order of things (dharma) and, when necessary, he appears on earth in various incarnations or avatars to fight demons and fierce creatures and so maintain cosmic harmony.
-
-![](/hannam_gallery_1660_rob_green.jpg)
 
 ![](/hannam_gallery_1660.jpg)
 
