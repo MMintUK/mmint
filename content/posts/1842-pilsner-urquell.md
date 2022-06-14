@@ -10,3 +10,5 @@ image = "/1842_rob_green_1456.jpg"
 
 +++
 Sketch for a mural for Pilsner Urquell commission in homage to Alphonse Mucha. Hanganjin, Seoul, S.Korea.
+
+![](/1842_sketch_rob_green_mmint_seoul_detail.jpg)
