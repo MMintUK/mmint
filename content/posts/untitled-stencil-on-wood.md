@@ -1,5 +1,5 @@
 +++
-categories = ["painting"]
+categories = ["stencil", "painting"]
 date = 2013-06-14T23:00:00Z
 tags = ["graffiti", "street art"]
 title = "'Untitled' | Stencil on Wood"
