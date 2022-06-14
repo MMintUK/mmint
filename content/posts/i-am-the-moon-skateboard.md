@@ -2,7 +2,7 @@
 categories = ["painting"]
 date = 2018-04-10T23:00:00Z
 tags = ["skateboard", "painting"]
-title = "'I'am the Moon' | Skateboard"
+title = "'I'am the Moon' | 'Decked Out' Exhibition Noksapyeong, Seoul"
 [cover]
 alt = ""
 caption = ""
