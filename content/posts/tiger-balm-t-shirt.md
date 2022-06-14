@@ -2,7 +2,7 @@
 categories = ["Illustration", "Silkscreen"]
 date = 2021-03-12T00:00:00Z
 tags = ["illustration", "t-shirt", "silkscreen", "Aprel"]
-title = "'Tiger Balm' | Tee"
+title = "'Tiger Balm' | Tee Exhibition | MMMRecords, Itaewon, Seoul, S.Korea"
 [cover]
 alt = ""
 caption = ""
