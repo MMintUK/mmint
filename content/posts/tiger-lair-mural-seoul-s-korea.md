@@ -16,3 +16,7 @@ Travel to a realm of enlightenment inspired by ancient Korean mythology. A tiger
 ![](/tiger_lair_rob_green_artist_section_02_1660.jpg)
 
 ![](/tiger_lair_panel_two_full_1660.jpg)
+
+![](/tiger_lair_rob_green_artist_section_02_detail_03_1660.jpg)![](/tiger_lair_rob_green_artist_section_02_detail_01_colour_1660.jpg)
+
+![](/tiger_lair_rob_green_artist_section_02_02_1660.jpg)
