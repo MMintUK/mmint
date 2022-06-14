@@ -1,6 +1,6 @@
 +++
 categories = ["painting"]
-date = 2014-05-29T23:00:00Z
+date = 2012-08-15T23:00:00Z
 tags = ["graffiti", "street art"]
 title = "'NO STOPPING' | Pussy Kat | Sydney, Australia"
 [cover]
