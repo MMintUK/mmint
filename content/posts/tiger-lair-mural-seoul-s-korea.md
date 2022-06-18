@@ -6,14 +6,10 @@ title = "'Tiger Lair' Mural | Gangnam, Seoul, S.Korea"
 [cover]
 alt = ""
 caption = ""
-image = "/tiger_lair_ultraviolet_neon_mural_rob_green_artist__1660_opti.jpg"
+image = "/tiger_lair_rob_green_artist_section_02_1456_opti.jpg"
 
 +++
 Travel to a realm of enlightenment inspired by ancient Korean mythology. A tiger undergoes a spiritual journey shifting through layers of enlightenment on his path to becoming human. Along the way he encounters shrines, temples and mediation gardens inhabited by Buddha & Yama (The Lord of Hell).
-
-![](/tiger_lair_ultraviolet_neon_mural_rob_green_artist__1660_02_opti.jpg)
-
-![](/tiger_lair_rob_green_artist_section_02_1456_opti.jpg)
 
 ![](/tiger_lair_rob_green_artist_section_02_b_1456_opti.jpg)
 
@@ -24,3 +20,5 @@ Travel to a realm of enlightenment inspired by ancient Korean mythology. A tiger
 ![](/tiger_lair_rob_green_artist_section_02_detail_03_1660.jpg)![](/tiger_lair_rob_green_artist_section_02_detail_01_colour_1660.jpg)
 
 ![](/tiger_lair_rob_green_artist_section_02_02_1660.jpg)
+
+![](/tiger_lair_ultraviolet_neon_mural_rob_green_artist__1660_opti.jpg)![](/tiger_lair_ultraviolet_neon_mural_rob_green_artist__1660_02_opti.jpg)
