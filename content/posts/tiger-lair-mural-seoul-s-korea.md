@@ -2,7 +2,7 @@
 categories = ["mural", "ultraviolet", "painting"]
 date = 2020-06-09T23:00:00Z
 tags = ["mural"]
-title = "'Tiger Lair' Mural | Gangnam, Seoul, S.Korea"
+title = "'Tiger Lair' Mural | Section Two | Gangnam, Seoul, S.Korea"
 [cover]
 alt = ""
 caption = ""
