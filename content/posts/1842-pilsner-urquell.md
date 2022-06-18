@@ -1,7 +1,7 @@
 +++
-categories = ["sketch"]
+categories = ["illustration"]
 date = 2018-12-10T00:00:00Z
-tags = []
+tags = ["sketch"]
 title = "'1842' | Pilsner Urquell"
 [cover]
 alt = ""
