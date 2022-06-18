@@ -2,7 +2,7 @@
 categories = []
 date = 2017-09-02T23:00:00Z
 tags = []
-title = "‘The Short Analysis of Uncertainty’ | Exhibition, Daegu"
+title = "‘The Short Analysis of Uncertainty’ | Exhibition, Daegu, S.Korea"
 [cover]
 alt = ""
 caption = ""
