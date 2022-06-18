@@ -1,7 +1,7 @@
 +++
-categories = []
+categories = ["painting"]
 date = 2016-11-20T00:00:00Z
-tags = []
+tags = ["graffiti", "street art"]
 title = "Collab w Animal Shelter | Seoul, S.Korea"
 [cover]
 alt = ""
