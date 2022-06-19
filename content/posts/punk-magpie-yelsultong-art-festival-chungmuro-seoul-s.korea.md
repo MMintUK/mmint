@@ -14,7 +14,6 @@ I was standing on top of the scaffolding painting this magpie, I looked up and t
 ![](/yelsultong_art-_festival_chungmuro_seoul_magpie_rob_green_artist_mmint_mural_street_art_1660.jpg)
 
 <a href="https://mmint.uk/yelsultong_art_festival_chungmuro_seoul_magpie_rob_green_artist_mmint_mural_street_art_video.mp4">
-            <img src="/yelsultong_video_screenshot_template-01.jpg">
+<img src="![](/yelsultong_video_screenshot_template-01.jpg)">
 </a>
 
-![](/yelsultong_video_screenshot_template-01.jpg)
