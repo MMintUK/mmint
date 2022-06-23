@@ -1,18 +1,144 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on MMINT.UK</title>
-    <link>https://ephemeral-raindrop-c5fa88.netlify.app/tags/</link>
-    <description>Recent content in Tags on MMINT.UK</description>
+    <title>Tags on @MMINT.UK</title>
+    <link>https://mmint.uk/tags/</link>
+    <description>Recent content in Tags on @MMINT.UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jun 2022 23:00:00 +0000</lastBuildDate><atom:link href="https://ephemeral-raindrop-c5fa88.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmint.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Neon</title>
-      <link>https://ephemeral-raindrop-c5fa88.netlify.app/tags/neon/</link>
-      <pubDate>Wed, 08 Jun 2022 23:00:00 +0000</pubDate>
+      <title>Aprel</title>
+      <link>https://mmint.uk/tags/aprel/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ephemeral-raindrop-c5fa88.netlify.app/tags/neon/</guid>
+      <guid>https://mmint.uk/tags/aprel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>illustration</title>
+      <link>https://mmint.uk/tags/illustration/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/illustration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>silkscreen</title>
+      <link>https://mmint.uk/tags/silkscreen/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/silkscreen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>t-shirt</title>
+      <link>https://mmint.uk/tags/t-shirt/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/t-shirt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mural</title>
+      <link>https://mmint.uk/tags/mural/</link>
+      <pubDate>Tue, 09 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/mural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ultraviolet</title>
+      <link>https://mmint.uk/tags/ultraviolet/</link>
+      <pubDate>Tue, 09 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/ultraviolet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>print</title>
+      <link>https://mmint.uk/tags/print/</link>
+      <pubDate>Wed, 03 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/print/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vishnu</title>
+      <link>https://mmint.uk/tags/vishnu/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/vishnu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graffiti</title>
+      <link>https://mmint.uk/tags/graffiti/</link>
+      <pubDate>Sat, 19 Oct 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/graffiti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>street art</title>
+      <link>https://mmint.uk/tags/street-art/</link>
+      <pubDate>Sat, 19 Oct 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/street-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sketch</title>
+      <link>https://mmint.uk/tags/sketch/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/sketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>painting</title>
+      <link>https://mmint.uk/tags/painting/</link>
+      <pubDate>Tue, 10 Apr 2018 23:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/painting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skateboard</title>
+      <link>https://mmint.uk/tags/skateboard/</link>
+      <pubDate>Tue, 10 Apr 2018 23:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/skateboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monkey</title>
+      <link>https://mmint.uk/tags/monkey/</link>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/monkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stencil</title>
+      <link>https://mmint.uk/tags/stencil/</link>
+      <pubDate>Thu, 14 Jun 2012 23:00:00 +0000</pubDate>
+      
+      <guid>https://mmint.uk/tags/stencil/</guid>
       <description></description>
     </item>
     

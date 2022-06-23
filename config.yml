@@ -10,8 +10,6 @@ params:
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/mmint.uk"
-    - name: facebook
-      url: "https://www.facebook.com/mmintuk-112376371481073"
     - name: twitter
       url: "https://twitter.com/mmint_uk"     
 
